@@ -11,7 +11,7 @@ with only TX, RX and Gnd connected...
 As I had a ESP8266 ESP-01 USB Serial Programmer with CH340 lying around anyway,
 I gave it a try - when you have steady hands, it works flawlessly...
 
-ESP8266 ESP-01 USB Serial Programmer with CH340 with wiring:
+ESP8266 ESP-01 USB Serial Programmer with CH340:
 ![71VzUiLa4yL _SL1500_](https://user-images.githubusercontent.com/6953309/197144950-cba9f866-3ec2-4394-b5c7-a37626a7bcf6.jpg)
 
 Wiring:

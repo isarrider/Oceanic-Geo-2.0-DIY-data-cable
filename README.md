@@ -20,3 +20,5 @@ Wiring:
 
 Subsurface import:
 ![Clipboard01](https://user-images.githubusercontent.com/6953309/197145537-1990a7a7-e5ec-421d-9aff-a10253871325.png)
+
+Maybe one more hint: The battery has to be full...

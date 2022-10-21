@@ -2,6 +2,8 @@
 Do it yourself datacable for the Oceanic Geo 2.0
 (might work for others too)
 
+total cost around 3€ (nth for me as I had all already at home anyway)
+
 The official Data cable from Oceanic is tooo expensive for the value you get,
 so I thought about building my own...
 
